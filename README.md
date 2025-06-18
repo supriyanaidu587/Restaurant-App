@@ -1,5 +1,7 @@
 🍽️ Restaurant Management Web Application
+
 📋 Overview
+
 This is a full-stack web application built to streamline operations between customers, branch managers, and franchise partners in a restaurant ecosystem. Developed using React (Vite) for the frontend and Node.js, Express, and MongoDB for the backend, this app provides a smooth and efficient experience for all user roles.
 
 🚀 Features
